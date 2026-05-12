@@ -2,8 +2,6 @@
 
 I am a **frontend web developer**, passionate about technology and building attractive, interactive interfaces. I love learning and exploring new tools in the web ecosystem.  
 
-🚀 Currently, I am working on **React, TypeScript, and Styled Components** projects to improve my frontend development skills.  
-
 ---
 
 ## 💻 **About Me**  
@@ -18,19 +16,6 @@ I am a **frontend web developer**, passionate about technology and building attr
 🔹 **Frontend:** React, TypeScript, JavaScript, Styled Components  
 🔹 **Tools:** Git, GitHub, Visual Studio Code  
 🔹 **Other Interests:** Industrial Automation, Robotics, Artificial Intelligence  
-
----
-
-## 📌 **Featured Projects**  
-Here are some projects I have worked on:
-
-### 🛒 **S5.React-CardSwitcher-TS**  
-📌 A **React + TypeScript** application that dynamically switches between **three interactive Cards**.  
-
-### 🌍 **S4.Joke_and_Weather_API_Calls_TS**  
-📌 A project where I consume **joke and weather APIs** using **TypeScript and React**.  
-
-🔗 **[See more on my GitHub](https://github.com/JuanAlis)**  
 
 ---
 
